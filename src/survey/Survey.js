@@ -5,6 +5,7 @@ import SurveyStep3 from './SurveyStep3';
 import SurveyStep4 from './SurveyStep4';
 import './style.css'
 
+//Day 06 - 07 연결해서 진행
 const Survey = () => {
     return (
         <div className="wrap">
